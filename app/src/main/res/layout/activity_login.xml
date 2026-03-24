@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/edtEmail"
+        android:hint="Email"/>
+
+    <EditText
+        android:id="@+id/edtPass"
+        android:hint="Password"
+        android:inputType="textPassword"/>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:text="Đăng nhập"/>
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:text="Đăng ký"/>
+</LinearLayout>

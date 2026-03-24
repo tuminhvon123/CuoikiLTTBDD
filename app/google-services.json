@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "872345717904",
+    "firebase_url": "https://foodorderapp-1fa96-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foodorderapp-1fa96",
+    "storage_bucket": "foodorderapp-1fa96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872345717904:android:9ed7cf5519475f27f65c15",
+        "android_client_info": {
+          "package_name": "com.example.cuoikilttbdd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVY6JuHqwsW3aB9IfjL1fzb91IYitRhYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872345717904:android:17be1e526037ed71f65c15",
+        "android_client_info": {
+          "package_name": "com.example.vontest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVY6JuHqwsW3aB9IfjL1fzb91IYitRhYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
